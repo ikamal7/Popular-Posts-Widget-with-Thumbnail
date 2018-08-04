@@ -1,0 +1,27 @@
+.thumbnail {
+    float:  left;
+    overflow:  hidden;
+}
+
+.post-info {
+    float:  left;
+    width: 45%;
+}
+.post-info a{
+
+}
+
+.thumbnail {
+    width: 48%;
+    margin-right: 10px;
+}
+.thumbnail img{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.popularpost li {
+    position:  relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
