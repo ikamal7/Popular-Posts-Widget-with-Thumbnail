@@ -1,7 +1,7 @@
 <?php
     
     /**
-     * Plugin Name: Popular Post Widget
+     * Plugin Name: Popular Post Widget with Thumbnail
      * Plugin URI: https://github.com/ikamal7/Popular-Posts-Widget-with-Thumbnail/
      * Description: Popular posts widget show popular posts in your site with thumbnail
      * Author: Kamal Hosen

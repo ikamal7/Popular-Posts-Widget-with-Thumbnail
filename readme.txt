@@ -1,4 +1,4 @@
-=== Popular Post Widget ===
+=== Popular Post Widget with Thumbnail ===
 
 Contributors: ikamal
 Tags: popular post, popular posts, most popular posts, widget, popular post widget.
