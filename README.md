@@ -53,11 +53,11 @@ You will find update notification in your wordpress admin panel.
 
 See the description and also you can see the description over the Frequently Asked Questions.
 
-#### Screenshots
+## Screenshots
 1. Initial front-end view of popular posts.
 
 
-#### Changelog ==
+## Changelog ==
 
 = 1.0 =
 * Initial Release.
