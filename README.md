@@ -16,29 +16,29 @@ This is a simple widget like others to show your most popular posts based on vie
 
 # Installation
 
-/// Uploading in WordPress Dashboard
+#### Uploading in WordPress Dashboard
 
 1. First download the plugin ZIP file from Wordpress website
 2. Log in to your website administrator panel
 3. Go to the 'Add New' in the plugins dashboard, click “Upload Plugin”
 4. Upload Popular Post Widget ZIP file by choosing it from your computer
-5. Click **Install Now** button
-6. Then click **Activate Plugin** button.
+5. Click `Install Now` button
+6. Then click `Activate Plugin` button.
 7. You can see the Popular post Widget in the widget section 'Appearance > widgets'.
 
-/// Using The WordPress Plugin Dashboard
+#### Using The WordPress Plugin Dashboard
 
 1. Go to the 'Add New' in the plugins dashboard
 2. Search for 'Popular Post Widget'
-3. Click **Install Now** button
-4. Then click **Activate Plugin** button
+3. Click `Install Now` button
+4. Then click `Activate Plugin` button
 5. You can see the Popular Post Widget in the widget section 'Appearance > widgets'.
 
 /// Using FTP
 
 1. Download the ZIP file from Wordpress website
-2. Extract the **popular post widget** directory to your computer
-3. Upload the **popular post widget** directory to the **/wp-content/plugins/** directory
+2. Extract the `popular post widget with thumbnail` directory to your computer
+3. Upload the `popular post widget with thumbnail` directory to the **/wp-content/plugins/** directory
 4. Activate the plugin in the Plugin dashboard
 5. You can see the Popular Post Widget in the widget section 'Appearance > widgets'.
 
